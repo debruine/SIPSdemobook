@@ -1,0 +1,19 @@
+/* edit this file to add custom styles */
+
+.inline-figure { border: none; }
+.quarto-cover-image { display: block; }
+/* named colours */
+:root {
+  --red: #FF0000;
+  --white: #FFFFFF;
+  --green: #00CC33;
+}
+
+/* rainbow borders */
+body {
+  margin-top: 30px;
+  box-shadow:
+    0 -10px 0 0px var(--green),
+    0 -20px 0 0px var(--white),
+    0 -30px 0 0px var(--red);
+}
