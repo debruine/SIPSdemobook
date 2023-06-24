@@ -7,7 +7,7 @@ execute:
 book:
   title: Book
   subtitle: ''
-  author: ''
+  author: 'Lisa DeBruine'
   doi: ''
   license: CC-BY 4.0
   description: ''
